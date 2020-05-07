@@ -38,7 +38,7 @@ overflow: hidden;
 <div style="border: 1px solid #000000; margin: 12px;">
 <div id="content">
 <header id="header">
-<h2><a href="https://security-detection.github.io/lie/</a></h2>
+<h2><a href="https://security-detection.github.io/lie/"></a></h2>
 </header>
 <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement"  id="nav">
 <li itemprop="name">a</li>
