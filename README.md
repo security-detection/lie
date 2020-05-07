@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+<head><title>Security Detection</title>
+<meta name = "description" content = "Security Detection">
+<meta name = "keywords" content = "">
+<meta name = "author" content = "Security Detection">
+<style type="text/css">
 
-You can use the [editor on GitHub](https://github.com/security-detection/lie/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#content {
+padding: 10px;
+width: 70%;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+overflow: hidden;
+}
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#nav li
+{
+display: inline;
+background-color: #71a1ed;
+padding: 2px;
+}
 
-- Bulleted
-- List
+#sidebar
+{
+margin-top: 30px;
+padding: 10px;
+float: left;
+background-color: #71a1ed;
+overflow: hidden;
+}
+</style>
+</head>
 
-1. Numbered
-2. List
+<body>
+<div style="border: 1px solid #000000; margin: 12px;">
+<div id="content">
+<header id="header">
+<h2><a href="https://security-detection.github.io/lie/</a></h2>
+</header>
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement"  id="nav">
+<li itemprop="name">a</li>
+<li itemprop="name">b</li>
+<li itemprop="name">c</li>
+</ul>
+test
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/security-detection/lie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+</div>
+</body>
+</html>
