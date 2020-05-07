@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/WebPage">
-<head><title>Security Detection</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<head>
+<title>Security Detection</title>
 <meta name = "description" content = "Security Detection">
 <meta name = "keywords" content = "">
 <meta name = "author" content = "Security Detection">
