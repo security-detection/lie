@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html itemscope itemtype="http://schema.org/WebPage">
-<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-<head>
-<title>Security Detection</title>
-<meta name = "description" content = "Security Detection">
-<meta name = "keywords" content = "">
-<meta name = "author" content = "Security Detection">
+
 <style type="text/css">
-
-
 
 #content {
 padding: 10px;
@@ -34,9 +25,7 @@ background-color: #71a1ed;
 overflow: hidden;
 }
 </style>
-</head>
 
-<body>
 <div style="border: 1px solid #000000; margin: 12px;">
 <div id="content">
 <header id="header">
